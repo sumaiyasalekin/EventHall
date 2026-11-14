@@ -39,3 +39,7 @@ eventhall/
 │   └── main.dart          # App theme, responsive shell, screens, and UI components
 ├── pubspec.yaml           # Flutter dependencies and metadata
 └── README.md              # Project documentation
+```
+---
+## Author
+**Sumaiya Salekin Saba**
