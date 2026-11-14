@@ -7,7 +7,7 @@ A cross-platform **Flutter** front-end application for browsing event spaces, ex
 ---
 
 ## Preview
-![Screenshot 2026-11-14 135945.png](https://github.com/user-attachments/assets/...)
+![EventHall Preview](Screenshot 2026-11-14 135945.png)
 
 ## Key Features
 
